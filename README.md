@@ -36,8 +36,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+- :zap: In my free time, I solve problems on LeetCode and HackerRank.
 - :mailbox: How to reach me: **eng.islam.sulaiman@gmail.com**
 
 ---
