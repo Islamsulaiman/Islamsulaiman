@@ -6,10 +6,10 @@
   <a href="https://www.linkedin.com/in/islam-sulaiman">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-instagram-URL](https://instagram.com/eslamabohashem?igshid=OGQ5ZDc2ODk2ZA==)">
+  <a href="https://instagram.com/eslamabohashem?igshid=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="your-hashnode-URL">
+  <a href="https://hashnode.com/@IslamSulaiman">
     <img src="https://img.shields.io/badge/Hashnode-lightgrey?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 </div>
