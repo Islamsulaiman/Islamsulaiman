@@ -9,7 +9,7 @@
   <a href="https://instagram.com/eslamabohashem?igshid=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://hashnode.com/@IslamSulaiman">
+  <a href="https://islamsulaiman.hashnode.dev">
     <img src="https://img.shields.io/badge/Hashnode-lightgrey?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
 </div>
